@@ -7,9 +7,10 @@ The page shows the zine's cover; clicking it opens the reader in a full-window d
 - Cover on its own, then facing two-page spreads, like the printed booklet
 - One page at a time on narrow screens
 - Arrow keys, tap either half of the page, or swipe
-- Full-screen button
+- Back-to-start button (or Home/End keys) and a page box to jump to any page
+- Full-screen button (hides the browser's own toolbars)
 - Shareable links to a page (`#vol1-12`) when the reader has an `id`; opening such a link opens the reader on that page
-- Under 6 KB of plain JavaScript and CSS (about 2.5 KB gzipped), no build step
+- Under 9 KB of plain JavaScript and CSS (about 3 KB gzipped), no build step
 
 In use on [polivoxia.ca](https://polivoxia.ca/the_somatic_ghost/).
 
